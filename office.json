@@ -55,7 +55,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/app.swile.co\/"
+                 "value":"https:\/\/drive.google.com\/drive\/"
                 }],
          "type":"tilelayer",
          "visible":true,
