@@ -53,7 +53,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"urlWebSite",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/docs.google.com\/presentation\/d\/1f7SWPHQuKyXGx9rA0RX7vWFNxdcltY5NT3g1Y0fEm0A\/edit#slide=id.ga682061ee9_0_8"
                 }],
