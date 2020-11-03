@@ -55,7 +55,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/docs.google.com\/presentation\/d\/1f7SWPHQuKyXGx9rA0RX7vWFNxdcltY5NT3g1Y0fEm0A\/edit?usp=sharing"
+                 "value":"https:\/\/docs.google.com\/presentation\/d\/1f7SWPHQuKyXGx9rA0RX7vWFNxdcltY5NT3g1Y0fEm0A\/edit?usp=sharing&embed=true"
                 }],
          "type":"tilelayer",
          "visible":true,
