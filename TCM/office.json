@@ -25,7 +25,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"maps.workadventu.re\/Floor0\/floor0.json"
+                 "value":"\/@\/admin\/thecodingmachine\/tcmparis"
                 }],
          "type":"tilelayer",
          "visible":true,
