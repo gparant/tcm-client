@@ -25,7 +25,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/maps.workadventu.re\/Floor0\/floor0.json"
+                 "value":"maps.workadventu.re\/Floor0\/floor0.json"
                 }],
          "type":"tilelayer",
          "visible":true,
