@@ -1,0 +1,166 @@
+<!doctype html>
+<html class="no-js" lang="">
+
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-10196481-11"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-10196481-11');
+        if (window.location.host.endsWith("localhost")){
+            window['ga-disable-UA-10196481-11'] = true;
+        }
+    </script>
+    <link rel="apple-touch-icon" sizes="57x57" href="static/images/favicons/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="static/images/favicons/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="static/images/favicons/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="static/images/favicons/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="static/images/favicons/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="static/images/favicons/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="static/images/favicons/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="static/images/favicons/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="static/images/favicons/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="static/images/favicons/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="static/images/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="static/images/favicons/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="static/images/favicons/favicon-16x16.png">
+    <link rel="manifest" href="static/images/favicons/manifest.json">
+    <meta name="msapplication-TileColor" content="#000000">
+    <meta name="msapplication-TileImage" content="static/images/favicons/ms-icon-144x144.png">
+    <meta name="theme-color" content="#000000">
+    <title>WorkAdventu.re</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta name="title" content="Workadventure" />
+    <meta name="description" content="You are impatient to discover this new world? Click on 'Work online' and meet new people or share this adventure with your colleagues and friends by clicking on 'Work in private'" />
+    <!-- Open Graph / Facebook -->
+    <meta property="og:url" content="https://workadventu.re/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Workadventure" />
+    <meta property="og:description" content="You are impatient to discover this new world? Click on 'Work online' and meet new people or share this adventure with your colleagues and friends by clicking on 'Work in private'" />
+    <meta property="og:image" content="https://workadventu.re/static/images/meta-tags-image.jpg" />
+    <meta property="og:image:type" content="image/jpeg" />
+    <meta property="og:image:alt" content="workadventure" />
+    <!-- Twitter -->
+    <meta name="twitter:site" content="@coding_machine">
+    <meta name="twitter:url" content="https://workadventu.re/" />
+    <meta name="twitter:title" content="Workadventure" />
+    <meta name="twitter:description" content="You are impatient to discover this new world? Click on 'Work online' and meet new people or share this adventure with your colleagues and friends by clicking on 'Work in private'" />
+    <meta name="twitter:image" content="https://workadventu.re/static/images/meta-tags-image.jpg" />
+    <link rel="stylesheet" href="main.css">
+    <style>
+        body{
+            font-family: "Open Sans";
+        }
+        .left{
+            position: absolute;
+            margin: 0;
+            width: 50vw;
+            height: 100vh;
+            overflow: hidden;
+        }
+        .right{
+            position: absolute;
+            padding-top: 25vh;
+            margin: 0;
+            margin-left: 50vw;
+            width: 50vw;
+            height: 100vh;
+        }
+        h1{
+            font-size: 34px;
+            margin: 10px;
+        }
+        h2{
+            font-size: 13px;
+            font-weight: bold;
+            margin: 10px;
+        }
+        p{
+            font-size: 12px;
+            margin: 10px;
+        }
+        .image-top{
+            position: absolute;
+            margin-top: calc( 50vh - 313px );
+            margin-left: calc( 25vw - 190px);
+            max-width: 180px;
+            max-height: 180px;
+        }
+        .image-bottom{
+            position: absolute;
+            margin-top: calc( 50vh + 150px );
+            margin-left: calc( 25vw - 30px);
+            max-width: 180px;
+            max-height: 180px;
+        }
+        .image-first{
+            position: absolute;
+            margin-top: calc( 50vh - 150px );
+            margin-left: calc( 25vw - 150px );
+            max-width: 300px;
+            max-height: 300px;
+        }
+        nav{
+            margin-top: 0;
+            width: 100vw;
+            height: 40px;
+        }
+    </style>
+    <script src="bundle.js"></script>
+    <script>
+        function startGame() {
+            let playUrl = window.location.protocol + "//play."+window.location.host+"/_/global/npeguin.github.io/office-map/map.json";
+            window.open(playUrl, '_blank');
+        }
+        function shareFB() {
+            window.open('https://www.facebook.com/sharer/sharer.php?u=https://workadventu.re/', '_blank', 'width=500,height=500');
+        }
+        function shareLI() {
+            window.open('https://www.linkedin.com/shareArticle?mini=true&url=https://workadventu.re/&title=&summary=Your workplace but better!&source=TheCodingMachine', '_blank', 'width=500,height=500');
+        }
+        function shareTW() {
+            window.open('https://twitter.com/share?text=Your workplace but better!&url=https://workadventu.re/&hashtags=thecodingmachine', '_blank', 'width=500,height=500');
+        }
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.3.1/gsap.min.js" integrity="sha256-MVs0yHYDQBhIRZrNeWB1YaNMrGbFwowIEPIl3um5MZE=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.3.1/ScrollTrigger.min.js" integrity="sha256-FEFPM9cOclVyq+lIim2xnU/dAgrALF+g4M8kYm2tbX0=" crossorigin="anonymous"></script>
+
+</head>
+
+<body>
+    <nav>
+        <a href="https://www.facebook.com/workadventurebytcm" target="_blank">
+            <img src="images/facebook.png">
+        </a>
+        <a href="https://www.linkedin.com/company/workadventure-by-tcm/" target="_blank">
+            <img src="images/linkedin.png">
+        </a>
+        <a href="https://twitter.com/Workadventure_" target="_blank">
+            <img src="images/twitter.png">
+        </a>
+    </nav>
+    <div class="left">
+        <div class="image-top">
+            <a href="" target="_blank"><img src="images/bitmap3.png" width="180"></a>
+        </div>
+        <div class="image-left"></div>
+        <div class="image-bottom">
+            <img src="images/bitmap.png" width="180">
+        </div>
+        <div class="image-first">
+            <img src="images/interact.png" width="300">
+        </div>
+    </div>
+    <div class="right">
+        <h1>Social Interaction</h1>
+        <h2>Yes, I know, It’s amazing ?!</h2>
+        <p>Work Adventure preserves your social interraction wile COVID is still out there.</p>
+    </div>
+</body>
+
+</html>
