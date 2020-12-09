@@ -43,7 +43,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/workadventu.re\/static\/webpage\/interact.html"
+                 "value":"https:\/\/gparant.github.io\/WebSite\/page\/interact.html"
                 }],
          "type":"tilelayer",
          "visible":true,
