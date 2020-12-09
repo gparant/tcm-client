@@ -43,7 +43,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/gparant.github.io\/WebSite\/page\/interact.html"
+                 "value":"https:\/\/gparant.github.io\/tcm-client\/WebSite\/page\/interact.html"
                 }],
          "type":"tilelayer",
          "visible":true,
