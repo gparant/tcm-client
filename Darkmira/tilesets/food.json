@@ -1,0 +1,14 @@
+{ "columns":7,
+ "image":"..\/..\/tilesets\/pixel_food_assets_for_pikuniku_battle_free_to_use__by_meminmamon_dc17c1q (1).png",
+ "imageheight":192,
+ "imagewidth":224,
+ "margin":0,
+ "name":"food",
+ "spacing":0,
+ "tilecount":42,
+ "tiledversion":"1.4.2",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":1.4
+}
