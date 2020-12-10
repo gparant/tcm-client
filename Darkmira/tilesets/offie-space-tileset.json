@@ -1,0 +1,14 @@
+{ "columns":15,
+ "image":"..\/Assets\/Assets\/offie-space-tileset.png",
+ "imageheight":192,
+ "imagewidth":480,
+ "margin":0,
+ "name":"offie-space-tileset",
+ "spacing":0,
+ "tilecount":90,
+ "tiledversion":"1.4.2",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":1.4
+}

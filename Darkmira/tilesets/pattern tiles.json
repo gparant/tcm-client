@@ -1,0 +1,14 @@
+{ "columns":5,
+ "image":"..\/..\/tilesets\/tile_preview.png",
+ "imageheight":96,
+ "imagewidth":160,
+ "margin":0,
+ "name":"pattern tiles",
+ "spacing":0,
+ "tilecount":15,
+ "tiledversion":"1.4.2",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":1.4
+}

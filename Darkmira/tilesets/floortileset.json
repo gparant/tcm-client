@@ -1,0 +1,24 @@
+{ "columns":8,
+ "image":"..\/floortileset.png",
+ "imageheight":272,
+ "imagewidth":272,
+ "margin":1,
+ "name":"floortileset",
+ "spacing":2,
+ "tilecount":64,
+ "tiledversion":"1.4.2",
+ "tileheight":32,
+ "tiles":[
+        {
+         "id":37,
+         "properties":[
+                {
+                 "name":"collides",
+                 "type":"bool",
+                 "value":true
+                }]
+        }],
+ "tilewidth":32,
+ "type":"tileset",
+ "version":1.4
+}
