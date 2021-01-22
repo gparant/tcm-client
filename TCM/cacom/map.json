@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/tcm\/workadventure\/corridor#start_cacom"
+                 "value":"\/@\/tcm\/workadventure\/corridor#start-cacom"
                 }],
          "type":"tilelayer",
          "visible":true,

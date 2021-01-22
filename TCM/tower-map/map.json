@@ -25,7 +25,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/tcm\/workadventure\/corridor#start_dungeon"
+                 "value":"\/@\/tcm\/workadventure\/corridor#start-town"
                 }],
          "type":"tilelayer",
          "visible":true,

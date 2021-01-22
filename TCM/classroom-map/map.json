@@ -73,7 +73,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/tcm\/workadventure\/corridor#start_school"
+                 "value":"\/@\/tcm\/workadventure\/corridor#start-school"
                 }],
          "type":"tilelayer",
          "visible":true,

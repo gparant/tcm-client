@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/tcm\/workadventure\/corridor#start_fantasy"
+                 "value":"\/@\/tcm\/workadventure\/corridor#start-fantasy"
                 }],
          "type":"tilelayer",
          "visible":true,
