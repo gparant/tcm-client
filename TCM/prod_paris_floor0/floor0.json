@@ -332,7 +332,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"\/@\/tcm\/workadventure\/corridor"
+                 "value":"\/@\/tcm\/workadventure\/corridor#start_tcm"
                 }],
          "type":"tilelayer",
          "visible":true,
