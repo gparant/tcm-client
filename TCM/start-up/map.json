@@ -89,9 +89,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"jitsiRoom",
                  "type":"string",
-                 "value":"https:\/\/cerclelab.clickmeeting.com\/577263493?popup=off&x"
+                 "value":"Meeting1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -272,7 +272,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":36,
+ "nextlayerid":38,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
