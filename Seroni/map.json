@@ -181,7 +181,7 @@
          "height":70,
          "id":21,
          "name":"furniture-override-opacity",
-         "opacity":0.86,
+         "opacity":0.96,
          "type":"tilelayer",
          "visible":true,
          "width":100,
