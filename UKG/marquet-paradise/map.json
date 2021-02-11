@@ -8,7 +8,7 @@
         },
      "export":
         {
-         "target":"..\/..\/..\/Dev\/Youniverse"
+         "target":"."
         }
     },
  "height":57,
