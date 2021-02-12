@@ -1,13 +1,16 @@
 { "compressionlevel":-1,
- "editorsettings": {
-  "chunksize": {
-   "height": 36,
-   "width": 36
-  },
-  "export": {
-   "target": "."
-  }
- },
+ "editorsettings":
+    {
+     "chunksize":
+        {
+         "height":36,
+         "width":36
+        },
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":50,
  "infinite":false,
  "layers":[
@@ -288,17 +291,8 @@
  "tileheight":32,
  "tilesets":[
         {
-         "columns":18,
          "firstgid":1,
-         "image":"assets\/modern_interiors.png",
-         "imageheight":14368,
-         "imagewidth":600,
-         "margin":0,
-         "name":"modern_interiors",
-         "spacing":0,
-         "tilecount":8082,
-         "tileheight":32,
-         "tilewidth":32
+         "source":"assets\/modern_interiors.tsx"
         }, 
         {
          "columns":40,
