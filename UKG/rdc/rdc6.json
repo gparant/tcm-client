@@ -102,7 +102,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"room1"
+                 "value":"room61"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -125,7 +125,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"room2"
+                 "value":"room62"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -148,7 +148,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"room3"
+                 "value":"room63"
                 }, 
                 {
                  "name":"jitsiTrigger",
