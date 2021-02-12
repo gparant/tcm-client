@@ -291,8 +291,36 @@
  "tileheight":32,
  "tilesets":[
         {
+         "columns":18,
          "firstgid":1,
-         "source":"assets\/modern_interiors.tsx"
+         "image":"assets\/modern_interiors.png",
+         "imageheight":14368,
+         "imagewidth":600,
+         "margin":0,
+         "name":"modern_interiors",
+         "spacing":0,
+         "tilecount":8082,
+         "tileheight":32,
+         "tiles":[
+                {
+                 "id":204,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":false
+                        }]
+                }, 
+                {
+                 "id":205,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":false
+                        }]
+                }],
+         "tilewidth":32
         }, 
         {
          "columns":40,
