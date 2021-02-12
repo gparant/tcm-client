@@ -286,6 +286,12 @@
  "nextlayerid":25,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"imagePath",
+         "type":"string",
+         "value":"rdc6.png"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
  "tileheight":32,
