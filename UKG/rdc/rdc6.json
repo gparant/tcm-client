@@ -1,11 +1,13 @@
 { "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "target":"."
-        }
-    },
+ "editorsettings": {
+  "chunksize": {
+   "height": 36,
+   "width": 36
+  },
+  "export": {
+   "target": "."
+  }
+ },
  "height":50,
  "infinite":false,
  "layers":[
