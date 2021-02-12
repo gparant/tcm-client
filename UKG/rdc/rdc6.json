@@ -310,20 +310,7 @@
          "tilecount":2320,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "columns":22,
-         "firstgid":10403,
-         "image":"assets\/office_interiors.png",
-         "imageheight":768,
-         "imagewidth":704,
-         "margin":0,
-         "name":"office_interiors",
-         "spacing":0,
-         "tilecount":528,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
+        },
         {
          "columns":2,
          "firstgid":10931,
