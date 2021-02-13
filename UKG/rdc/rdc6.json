@@ -38,6 +38,12 @@
          "id":20,
          "name":"exitTo1",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"\/@\/ukg\/virtual-office\/rdc1#start-right"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
@@ -50,6 +56,12 @@
          "id":21,
          "name":"exitTo2",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"\/@\/ukg\/virtual-office\/rdc2#start-right"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
@@ -62,6 +74,12 @@
          "id":22,
          "name":"exitTo3",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"\/@\/ukg\/virtual-office\/rdc3#start-right"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
@@ -74,6 +92,12 @@
          "id":23,
          "name":"exitTo4",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"\/@\/ukg\/virtual-office\/rdc4#start-right"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
@@ -86,6 +110,12 @@
          "id":24,
          "name":"exitTo5",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"\/@\/ukg\/virtual-office\/rdc5"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
