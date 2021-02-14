@@ -19,7 +19,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/ukg\/virtual-office\/rdc2#start-left"
+                 "value":"\/@\/ukg\/virtual-office\/r2#start-left"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/ukg\/virtual-office\/rdc2#start-right"
+                 "value":"\/@\/ukg\/virtual-office\/r2#start-right"
                 }],
          "type":"tilelayer",
          "visible":true,
