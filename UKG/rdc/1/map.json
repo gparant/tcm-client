@@ -19,7 +19,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/ukg\/virtual-office\/r1#start-left"
+                 "value":"\/@\/ukg\/virtual-office\/rdc1#start-left"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/ukg\/virtual-office\/r1#start-right"
+                 "value":"\/@\/ukg\/virtual-office\/rdc1#start-right"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -55,7 +55,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/ukg\/virtual-office\/r3#start-left"
+                 "value":"\/@\/ukg\/virtual-office\/rdc3#start-left"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -73,7 +73,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/ukg\/virtual-office\/r3#start-right"
+                 "value":"\/@\/ukg\/virtual-office\/rdc3#start-right"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -91,7 +91,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/ukg\/virtual-office\/r4#start-left"
+                 "value":"\/@\/ukg\/virtual-office\/rdc3#start-left"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -109,7 +109,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/ukg\/virtual-office\/r4#start-right"
+                 "value":"\/@\/ukg\/virtual-office\/rdc3#start-right"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -127,7 +127,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/ukg\/virtual-office\/r5"
+                 "value":"\/@\/ukg\/virtual-office\/rdc5"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -145,7 +145,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/ukg\/virtual-office\/r6"
+                 "value":"\/@\/ukg\/virtual-office\/rdc6"
                 }],
          "type":"tilelayer",
          "visible":true,

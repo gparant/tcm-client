@@ -19,7 +19,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/ukg\/virtual-office\/rdc1#start-right"
+                 "value":"\/@\/ukg\/virtual-office\/r1#start-right"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/ukg\/virtual-office\/rdc2#start-right"
+                 "value":"\/@\/ukg\/virtual-office\/r2#start-right"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -55,7 +55,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/ukg\/virtual-office\/rdc3#start-right"
+                 "value":"\/@\/ukg\/virtual-office\/r3#start-right"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -73,7 +73,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/ukg\/virtual-office\/rdc4#start-right"
+                 "value":"\/@\/ukg\/virtual-office\/r4#start-right"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -91,7 +91,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/ukg\/virtual-office\/rdc6"
+                 "value":"\/@\/ukg\/virtual-office\/r6"
                 }],
          "type":"tilelayer",
          "visible":true,
