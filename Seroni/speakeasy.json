@@ -84,7 +84,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/seroni\/leonze\/leonze"
+                 "value":"\/@\/seroni\/seroni\/leonze"
                 }],
          "type":"tilelayer",
          "visible":true,
