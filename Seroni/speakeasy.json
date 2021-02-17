@@ -15,6 +15,12 @@
          "id":16,
          "name":"openWebUrl",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/www.newsassurancespro.com\/"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":20,
