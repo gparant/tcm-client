@@ -84,7 +84,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/seroni\/seroni\/leonze"
+                 "value":"\/@\/seroni\/seroni\/leonze#start-from-speakeasy"
                 }],
          "type":"tilelayer",
          "visible":true,
