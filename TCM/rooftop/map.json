@@ -31,7 +31,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/gparant.github.io\/tcm-client\/TCM\/start-up\/map.json"
+                 "value":"\/_\/global\/gparant.github.io\/tcm-client\/TCM\/start-up\/map.json#start-rooftop"
                 }],
          "type":"tilelayer",
          "visible":true,
