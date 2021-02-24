@@ -20,6 +20,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.newsassurancespro.com\/"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"fullscreen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -38,6 +43,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.newsassurancespro.com\/"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"fullscreen"
                 }],
          "type":"tilelayer",
          "visible":true,
