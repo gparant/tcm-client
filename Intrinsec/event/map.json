@@ -245,6 +245,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"jitsiInterfaceConfig",
+                 "type":"string",
+                 "value":"{\"DEFAULT_BACKGROUND\": \"#000000\",\"DEFAULT_LOGO_URL\": \"https:\/\/gparant.github.io\/tcm-client\/Intrinsec\/images\/amongus-logo.jpg\",\"DEFAULT_REMOTE_DISPLAY_NAME\": \"Among Us\",\"DEFAULT_WELCOME_PAGE_LOGO_URL\": \"https:\/\/gparant.github.io\/tcm-client\/Intrinsec\/images\/amongus-logo.jpg\",\"PROVIDER_NAME\": \"Intrinsec\"}"
+                }, 
+                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"AmongUs"
