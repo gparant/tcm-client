@@ -90,7 +90,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/intrinsec\/teemmeeting\/event#from-speakeasy"
+                 "value":"\/@\/intrinsec\/teammeeting\/event#from-speakeasy"
                 }],
          "type":"tilelayer",
          "visible":true,

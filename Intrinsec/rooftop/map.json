@@ -31,7 +31,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/intrinsec\/teemmeeting\/event#from-rooftop"
+                 "value":"\/@\/intrinsec\/teammeeting\/event#from-rooftop"
                 }],
          "type":"tilelayer",
          "visible":true,
