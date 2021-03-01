@@ -158,6 +158,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"ChillDown"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -176,6 +181,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"ChillUp"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -194,6 +204,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"GamesHub"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
