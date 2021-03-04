@@ -1597,10 +1597,10 @@
                         }]
                 }],
          "tilewidth":32
-        }, 
+        },
         {
          "columns":4,
-         "firstgid":583,
+         "firstgid":599,
          "image":"criteo_logo-01.png",
          "imageheight":128,
          "imagewidth":128,
