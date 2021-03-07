@@ -20,6 +20,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/wwwulti.servicenow.ultiprod.myshn.net\/help?id=index"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Enter SPACE to open Help us application"
                 }],
          "type":"tilelayer",
          "visible":true,

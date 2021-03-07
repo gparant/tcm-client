@@ -25,6 +25,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/portal.ukg.com\/default.aspx "
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Enter SPACE to open Util pro"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -43,6 +53,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/ukg--simpplr.visualforce.com\/apex\/simpplr__app?u=\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Enter SPACE to open Today Home"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -464,9 +484,14 @@
          "value":"https:\/\/ukg--simpplr.visualforce.com\/apex\/simpplr__app?u=\/"
         }, 
         {
+         "name":"openWebsiteTrigger",
+         "type":"string",
+         "value":"onaction"
+        }, 
+        {
          "name":"openWebsiteTriggerMessage",
          "type":"string",
-         "value":"Press SPACE for Today Home"
+         "value":"Press SPACE to open Today Home"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
