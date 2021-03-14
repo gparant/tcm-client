@@ -125,7 +125,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Jitsi TEAM 1"
+                 "value":"Press SPACE to enter in TEAM 1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -153,7 +153,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Jitsi TEAM 2"
+                 "value":"Press SPACE to enter in TEAM 2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -181,7 +181,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Jitsi TEAM 3"
+                 "value":"Press SPACE to enter in TEAM 3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -209,7 +209,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Jitsi TEAM 4"
+                 "value":"Press SPACE to enter in TEAM 4"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -237,7 +237,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Jitsi TEAM 5"
+                 "value":"Press SPACE to enter in TEAM 5"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -265,7 +265,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Jitsi TEAM 6"
+                 "value":"Press SPACE to enter in TEAM 6"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -293,7 +293,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Jitsi TEAM 7"
+                 "value":"Press SPACE to enter in TEAM 7"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -321,7 +321,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Jitsi TEAM 8"
+                 "value":"Press SPACE to enter in TEAM 8"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -349,7 +349,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Jitsi TEAM 9"
+                 "value":"Press SPACE to enter in TEAM 9"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -377,7 +377,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Jitsi TEAM 10"
+                 "value":"Press SPACE to enter in TEAM 10"
                 }],
          "type":"tilelayer",
          "visible":true,
