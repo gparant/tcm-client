@@ -49,7 +49,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/intrinsec\/teammeeting\/event#from-rooftop"
+                 "value":"\/@\/tcm\/workadventure\/olympiade2k21"
                 }],
          "type":"tilelayer",
          "visible":true,
