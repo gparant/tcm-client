@@ -38,6 +38,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"TCMHongKongChillZoneRoom"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
                 }],
          "type":"tilelayer",
          "visible":true,

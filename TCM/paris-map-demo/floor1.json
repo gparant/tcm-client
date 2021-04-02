@@ -32,6 +32,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"tcm-radiant"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -68,6 +73,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"tcm-white-room"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -86,6 +96,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"jg-meeting-room"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -111,6 +126,11 @@
                  "value":"corridor-meeting-room"
                 }, 
                 {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
+                }, 
+                {
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
@@ -132,6 +152,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"tcm-dire"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
                 }],
          "type":"tilelayer",
          "visible":true,

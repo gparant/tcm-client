@@ -100,6 +100,11 @@
                  "value":"team1"
                 }, 
                 {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
+                }, 
+                {
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
@@ -126,6 +131,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"team2"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -156,6 +166,11 @@
                  "value":"team3"
                 }, 
                 {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
+                }, 
+                {
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
@@ -182,6 +197,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"team4"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -212,6 +232,11 @@
                  "value":"team5"
                 }, 
                 {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
+                }, 
+                {
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
@@ -238,6 +263,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"team6"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -268,6 +298,11 @@
                  "value":"team7"
                 }, 
                 {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
+                }, 
+                {
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
@@ -294,6 +329,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"team8"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -324,6 +364,11 @@
                  "value":"team9"
                 }, 
                 {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
+                }, 
+                {
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
@@ -352,6 +397,11 @@
                  "value":"team10"
                 }, 
                 {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
+                }, 
+                {
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
@@ -378,6 +428,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Music"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -396,6 +451,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"ChillDown"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -426,6 +486,11 @@
                  "value":"ChillUp"
                 }, 
                 {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
+                }, 
+                {
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
@@ -452,6 +517,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"ChillBook"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -487,6 +557,11 @@
                  "value":"GamesHub"
                 }, 
                 {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
+                }, 
+                {
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
@@ -508,6 +583,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Scribble"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -526,6 +606,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Geoguessr"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -549,6 +634,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"AmongUs1"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -572,6 +662,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"AmongUs2"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
                 }],
          "type":"tilelayer",
          "visible":true,

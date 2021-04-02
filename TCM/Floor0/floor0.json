@@ -26,6 +26,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"tcm-patio"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -44,6 +49,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"tcm-chillzone-2"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -69,6 +79,11 @@
                  "value":"tcm-chillzone-11"
                 }, 
                 {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
+                }, 
+                {
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
@@ -92,6 +107,11 @@
                  "value":"tcm-chillzone-cafe"
                 }, 
                 {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
+                }, 
+                {
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
@@ -113,6 +133,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"tcm-formation"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -184,6 +209,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"tcm-amphi"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
                 }],
          "type":"tilelayer",
          "visible":true,

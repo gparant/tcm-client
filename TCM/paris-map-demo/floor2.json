@@ -32,6 +32,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"tcm-radiant-2"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -50,6 +55,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"tcm-white-room-2"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -68,6 +78,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"kitchen-white-room-2"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -93,6 +108,11 @@
                  "value":"corridor-white-room-2"
                 }, 
                 {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
+                }, 
+                {
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
@@ -114,6 +134,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"tcm-dire-2"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -292,7 +317,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.2",
+ "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
         {

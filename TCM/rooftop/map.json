@@ -56,6 +56,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Balcony"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
                 }],
          "type":"tilelayer",
          "visible":true,

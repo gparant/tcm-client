@@ -92,6 +92,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"room44"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -110,6 +115,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"room43"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -128,6 +138,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"room42"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -151,6 +166,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"room41"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
                 }],
          "type":"tilelayer",
          "visible":true,

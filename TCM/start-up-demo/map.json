@@ -116,6 +116,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Meeting2"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -134,6 +139,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Meeting1"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
                 }],
          "type":"tilelayer",
          "visible":true,

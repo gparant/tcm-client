@@ -38,6 +38,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"room1"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -56,6 +61,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"room2"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
                 }],
          "type":"tilelayer",
          "visible":true,

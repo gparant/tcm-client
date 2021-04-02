@@ -26,6 +26,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"office-map-meeting-room"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -44,6 +49,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"office-map-chill-zone"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
                 }],
          "type":"tilelayer",
          "visible":true,
