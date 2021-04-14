@@ -352,6 +352,32 @@
  "nextlayerid":24,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"CC-BY-SA 3.0:\n - http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/\n - See the file: cc-by-sa-3.0.txt\nGNU GPL 3.0:\n - http:\/\/www.gnu.org\/licenses\/gpl-3.0.html\n - See the file: gpl-3.0.txt\n\nAssets from: workadventure@thecodingmachine.com"
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":""
+        }, 
+        {
+         "name":"mapImage",
+         "type":"string",
+         "value":""
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":""
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"Demo Floor 1"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
  "tileheight":32,
@@ -364,6 +390,12 @@
          "imagewidth":352,
          "margin":0,
          "name":"tileset1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA 3.0:\n - http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/\n - See the file: cc-by-sa-3.0.txt\nGNU GPL 3.0:\n - http:\/\/www.gnu.org\/licenses\/gpl-3.0.html\n - See the file: gpl-3.0.txt\n\nAssets from: workadventure@thecodingmachine.com"
+                }],
          "spacing":0,
          "tilecount":121,
          "tileheight":32,
@@ -729,6 +761,12 @@
          "imagewidth":352,
          "margin":0,
          "name":"tileset1-repositioning",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA 3.0:\n - http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/\n - See the file: cc-by-sa-3.0.txt\nGNU GPL 3.0:\n - http:\/\/www.gnu.org\/licenses\/gpl-3.0.html\n - See the file: gpl-3.0.txt\n\nAssets from: workadventure@thecodingmachine.com"
+                }],
          "spacing":0,
          "tilecount":121,
          "tileheight":32,
@@ -1004,6 +1042,12 @@
          "imagewidth":384,
          "margin":0,
          "name":"tileset2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA 3.0:\n - http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/\n - See the file: cc-by-sa-3.0.txt\nGNU GPL 3.0:\n - http:\/\/www.gnu.org\/licenses\/gpl-3.0.html\n - See the file: gpl-3.0.txt\n\nAssets from: workadventure@thecodingmachine.com"
+                }],
          "spacing":0,
          "tilecount":120,
          "tileheight":32,
@@ -1504,6 +1548,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"tileset3.2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA 3.0:\n - http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/\n - See the file: cc-by-sa-3.0.txt\nGNU GPL 3.0:\n - http:\/\/www.gnu.org\/licenses\/gpl-3.0.html\n - See the file: gpl-3.0.txt\n\nAssets from: workadventure@thecodingmachine.com"
+                }],
          "spacing":0,
          "tilecount":100,
          "tileheight":32,
@@ -1563,6 +1613,12 @@
          "imagewidth":384,
          "margin":0,
          "name":"tileset2.2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA 3.0:\n - http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/\n - See the file: cc-by-sa-3.0.txt\nGNU GPL 3.0:\n - http:\/\/www.gnu.org\/licenses\/gpl-3.0.html\n - See the file: gpl-3.0.txt\n\nAssets from: workadventure@thecodingmachine.com"
+                }],
          "spacing":0,
          "tilecount":120,
          "tileheight":32,
@@ -1631,6 +1687,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"criteo_logo",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA 3.0:\n - http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/\n - See the file: cc-by-sa-3.0.txt\nGNU GPL 3.0:\n - http:\/\/www.gnu.org\/licenses\/gpl-3.0.html\n - See the file: gpl-3.0.txt\n\nAssets from: workadventure@thecodingmachine.com"
+                }],
          "spacing":0,
          "tilecount":16,
          "tileheight":32,
