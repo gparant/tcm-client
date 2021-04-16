@@ -323,7 +323,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"\/images\/maps\/start-up.png"
+         "value":"\/start-up.png"
         }, 
         {
          "name":"mapLink",

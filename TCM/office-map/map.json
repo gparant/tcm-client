@@ -167,7 +167,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"\/images\/maps\/office.png"
+         "value":"\/office.png"
         }, 
         {
          "name":"mapLink",

@@ -121,7 +121,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"\/images\/maps\/creative.png"
+         "value":"\/creative.png"
         }, 
         {
          "name":"mapLink",

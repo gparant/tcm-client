@@ -156,7 +156,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"\/images\/maps\/small-office.png"
+         "value":"\/small-office.png"
         }, 
         {
          "name":"mapLink",
