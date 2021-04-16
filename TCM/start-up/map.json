@@ -323,7 +323,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"\/start-up.png"
+         "value":"https://grl78.github.io/tcm-client/TCM/start-up/start-up.png"
         }, 
         {
          "name":"mapLink",

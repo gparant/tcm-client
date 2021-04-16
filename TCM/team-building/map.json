@@ -310,7 +310,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"\/team-building.png"
+         "value":"team-building.png"
         }, 
         {
          "name":"mapLink",

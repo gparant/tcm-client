@@ -333,7 +333,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"\/tcm.png"
+         "value":"tcm.png"
         }, 
         {
          "name":"mapLink",
