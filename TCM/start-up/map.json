@@ -318,7 +318,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"An office designed for a start-up company.\n                            Mixing fun and serious, this map has two meeting rooms,\n                            one open space, one kitchen, one chill-zone...\n                            It will be perfect to work and to welcome your guest.<br\/><br\/>\n                            Suitable from 10 to 25 people."
+         "value":"An office designed for a start-up company.\nMixing fun and serious, this map has two meeting rooms,\none open space, one kitchen, one chill-zone...\nIt will be perfect to work and to welcome your guest.\n\n\nSuitable from 10 to 25 people."
         }, 
         {
          "name":"mapImage",

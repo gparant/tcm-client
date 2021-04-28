@@ -116,7 +116,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"A more informal map to gather and brainstorm into small groups.\n                            Features several small spaces to have nice discussions.<br\/><br\/>\n                            Suitable from 15 to 30 people."
+         "value":"A more informal map to gather and brainstorm into small groups.\nFeatures several small spaces to have nice discussions.\n\n\nSuitable from 15 to 30 people."
         }, 
         {
          "name":"mapImage",
