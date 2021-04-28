@@ -305,7 +305,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"A perfect map for your team buildings or creative events. 3 meeting rooms, 5 spaces with 5 different ambiences, an art area, a game zone, a music place...\nSuitable from 20 to 60 people."
+         "value":"A perfect map for your team buildings or creative events. 3 meeting rooms, 5 spaces with 5 different ambiences, an art area, a game zone, a music place...\n\nSuitable from 20 to 60 people."
         }, 
         {
          "name":"mapImage",

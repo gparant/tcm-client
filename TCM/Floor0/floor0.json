@@ -328,7 +328,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"A big office map modeled after our real office! 3 floors, 3 meeting rooms, one theater, a chill-zone... everything to feel confortable and productive\nSuitable up to 100 people."
+         "value":"A big office map modeled after our real office! 3 floors, 3 meeting rooms, one theater, a chill-zone... everything to feel confortable and productive\n\nSuitable up to 100 people."
         }, 
         {
          "name":"mapImage",

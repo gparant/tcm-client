@@ -162,7 +162,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"A regular office map with 5 rooms, a meeting room, a living room, a kitchen and a nice little garden.\nSuitable up to 24 people."
+         "value":"A regular office map with 5 rooms, a meeting room, a living room, a kitchen and a nice little garden.\n\nSuitable up to 24 people."
         }, 
         {
          "name":"mapImage",
