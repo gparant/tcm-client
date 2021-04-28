@@ -318,12 +318,12 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"An office designed for a start-up company.\nMixing fun and serious, this map has two meeting rooms,\none open space, one kitchen, one chill-zone...\nIt will be perfect to work and to welcome your guest.\n\n\nSuitable from 10 to 25 people."
+         "value":"An office designed for a start-up company. Mixing fun and serious, this map has two meeting rooms, one open space, one kitchen, one chill-zone... It will be perfect to work and to welcome your guest.\nSuitable from 10 to 25 people."
         }, 
         {
          "name":"mapImage",
          "type":"string",
-         "value":"https://grl78.github.io/tcm-client/TCM/start-up/start-up.png"
+         "value":"start-up.png"
         }, 
         {
          "name":"mapLink",

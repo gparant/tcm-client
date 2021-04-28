@@ -116,7 +116,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Missing some friends? Just invite them to the pub! A small map\nwith a few tables, a counter, and nice couches to rest after your workday.\n\n\nSuitable from 10 to 30 friends."
+         "value":"Missing some friends? Just invite them to the pub! A small map with a few tables, a counter, and nice couches to rest after your workday.\nSuitable from 10 to 30 friends."
         }, 
         {
          "name":"mapImage",

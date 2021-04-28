@@ -151,7 +151,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"A small map with one meeting zone. It will be perfect if you want to invite your family or friends! This map is easy to custom!\n\n\nSuitable from 10 an 20 people."
+         "value":"A small map with one meeting zone. It will be perfect if you want to invite your family or friends! This map is easy to custom!\nSuitable from 10 an 20 people."
         }, 
         {
          "name":"mapImage",
