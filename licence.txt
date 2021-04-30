@@ -9,3 +9,6 @@ GNU GPL 3.0:
  - See the file: gpl-3.0.txt
 
 Assets from: workadventure@thecodingmachine.com
+
+
+
