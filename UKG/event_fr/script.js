@@ -35,38 +35,3 @@ for(let i = 0; i < zoneListArray.length; i++) {
         popupWebsite.close();
     });
 }
-
-const zoneList2 = {
-    openWebSiteZoomRectangle: {message: 'Auditorium 1', website: ''},
-};
-
-const zoneListArray2 = Object.keys(zoneList2);
-for(let i = 0; i < zoneListArray2.length; i++) {
-    const websiteIndex = zoneListArray2[i];
-    let popupWebsite = null;
-    WA.onEnterZone(websiteIndex, () => {
-        popupWebsite = WA.openPopup(`${websiteIndex}Rectangle`, `Open zoom conference of room ${message}`, [
-            {
-                label: "Close",
-                className: "popUpElement",
-                callback: (popup) => {
-                    popup.close();
-                }
-            },
-            {
-                label: "Open Zoom",
-                className: "popUpElement",
-                callback: (popup) => {
-                    WA.openTab(zoneList[websiteIndex].website);
-                }
-            }
-        ]);
-    });
-
-    WA.onLeaveZone(websiteIndex, () => {
-        if(!popupWebsite){
-            return;
-        }
-        popupWebsite.close();
-    });
-}
