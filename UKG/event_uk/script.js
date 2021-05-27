@@ -37,7 +37,7 @@ for(let i = 0; i < zoneListArray.length; i++) {
 }
 
 const zoneList2 = {
-    openWebSiteZoomRectangle: {message: 'Auditorium 1', website: 'https://zoom.us/'},
+    openWebSiteZoom: {message: 'Auditorium 1', website: 'https://zoom.us/'},
 };
 
 const zoneListArray2 = Object.keys(zoneList2);
