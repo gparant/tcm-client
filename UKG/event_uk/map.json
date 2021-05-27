@@ -180,7 +180,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.events-people-doc.com\/ukg-digital-hr-tour-2021-english#bl-dc29ee0e-4940-409f-8eb6-fe6c6461b772"
+                 "value":"https:\/\/backup-workadventure-db-prod.s3-eu-west-1.amazonaws.com\/map\/UKG\/document\/MAP-UKG.png"
                 }],
          "type":"tilelayer",
          "visible":true,
