@@ -216,7 +216,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.people-doc.co.uk\/hubfs\/2021\/NEU2021\/UK21-PDFs\/uk-ukg-lessons-learned-ebook.pdf"
+                 "value":"https:\/\/www.people-doc.fr\/typ-future-of-work-rse-diversite-inclusion-ebook"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -226,7 +226,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Enter SPACE to open: HR, Work, and Life: A Collection of Lessons Learned From 2020"
+                 "value":"Enter SPACE to open: Repenser l'espace de travail au profit de la diversit\u00e9 et de l'exclusion "
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -244,7 +244,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.people-doc.co.uk\/hubfs\/2021\/NEU2021\/UK21-PDFs\/2021-mega-trends-infographic.pdf"
+                 "value":"https:\/\/www.people-doc.fr\/typ-transformation-rh-fonction-renouveau"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -254,7 +254,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Enter SPACE to open: 2021 Megatrends Afftecting People and Organisations Infographic"
+                 "value":"Enter SPACE to open: Exp\u00e9rience collaborateur : un outil strat\u00e9gique indispensable"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -272,7 +272,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.people-doc.co.uk\/hubfs\/2021\/NEU2021\/UK21-PDFs\/UK-UKG_People-Assist-Overview.pdf"
+                 "value":"https:\/\/www.people-doc.fr\/transformation-rh-experience-collaborateur-engagement"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -282,7 +282,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Enter SPACE to open: UKG People Assist Solution Overview"
+                 "value":"Enter SPACE to open: Repenser l'experience collaborateur et l'engagement : une necessit\u00e9"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -300,7 +300,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.people-doc.co.uk\/hubfs\/2021\/NEU2021\/UK21-PDFs\/UK-UKG-Document-Manager-Overview.pdf"
+                 "value":"https:\/\/www.people-doc.fr\/ressources\/lets-talk-hr"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -310,7 +310,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Enter SPACE to open: UKG Document Manager Solution Overview"
+                 "value":"Enter SPACE to open: Let's talk HR"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -328,7 +328,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.people-doc.co.uk\/hubfs\/2021\/NEU2021\/UK21-PDFs\/UK-UKG-HRSD-Product-Overview.pdf"
+                 "value":"https:\/\/www.people-doc.fr\/le-barometre-experience-collaborateur-rh-durant-crise"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -338,7 +338,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Enter SPACE to open: UKG HR Service Delivery Solution Overview"
+                 "value":"Enter SPACE to open: L'exp\u00e9rience collaborateur vue par les acteurs RH - \u00e9dition 2021"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -356,7 +356,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.people-doc.co.uk\/hubfs\/2021\/NEU2021\/UK21-PDFs\/UKG-Kemira-Case-Study.pdf"
+                 "value":"https:\/\/www.people-doc.fr\/tendances-rh-2021-workforce-institute"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -366,7 +366,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Enter SPACE to open: Kemira Case Study"
+                 "value":"Enter SPACE to open: Les crit\u00e8res de l'entreprise r\u00e9siliente en 2021"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -384,7 +384,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.people-doc.co.uk\/hubfs\/2021\/NEU2021\/UK21-PDFs\/UKG-Boosting-HR-productivity-in-2021.pdf"
+                 "value":"https:\/\/www.people-doc.fr\/replay-webinar-plateforme-gestion-des-documents-rh"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -394,7 +394,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Enter SPACE to open: Boosting HR productivity in 2021: Moving from reactive to reimagining"
+                 "value":"Enter SPACE to open: Gestion des documents RH"
                 }],
          "type":"tilelayer",
          "visible":true,
