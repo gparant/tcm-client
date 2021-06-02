@@ -152,7 +152,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/backup-workadventure-db-prod.s3-eu-west-1.amazonaws.com\/map\/UKG\/document\/UK-Agenda.pdf"
+                 "value":"https:\/\/backup-workadventure-db-prod.s3-eu-west-1.amazonaws.com\/map\/UKG\/document\/FR-Agenda.pdf"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
