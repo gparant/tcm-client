@@ -58,7 +58,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"{{ festivalUrl }}"
+                 "value":"{{{ festivalUrl }}}"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -76,7 +76,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"{{ amphiUrl }}"
+                 "value":"{{{ amphiUrl }}}"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -94,7 +94,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"{{ redacUrl }}"
+                 "value":"{{{ redacUrl }}}"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -112,7 +112,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"{{ bureauRedacUrl }}"
+                 "value":"{{{ bureauRedacUrl }}}"
                 }],
          "type":"tilelayer",
          "visible":true,
