@@ -1,6 +1,7 @@
-import { bootstrapExtra } from "@workadventure/scripting-api-extra";
+console.log('Start scripting Seroni map');
 
-// Calling bootstrapExtra will initiliaze all the "custom properties"  
+import {bootstrapExtra} from '@workadventure/scripting-api-extra'
+console.log('inport bootstrapExtra', bootstrapExtra);
 bootstrapExtra();
 
 WA.onInit().then(() => {
