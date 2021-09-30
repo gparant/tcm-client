@@ -431,144 +431,140 @@
          "y":0
         }, 
         {
-         "draworder":"topdown",
-         "id":44,
-         "name":"configuration",
-         "objects":[
+         "id":48,
+         "layers":[
                 {
-                 "height":0,
-                 "id":1,
-                 "name":"festivalUrl",
-                 "point":true,
-                 "properties":[
+                 "draworder":"topdown",
+                 "id":44,
+                 "name":"Url conference",
+                 "objects":[
                         {
-                         "name":"default",
-                         "type":"string",
-                         "value":"https:\/\/www.newsassurancespro.com\/"
+                         "height":0,
+                         "id":1,
+                         "name":"festivalUrl",
+                         "point":true,
+                         "properties":[
+                                {
+                                 "name":"default",
+                                 "type":"string",
+                                 "value":"https:\/\/www.newsassurancespro.com\/"
+                                }, 
+                                {
+                                 "name":"label",
+                                 "type":"string",
+                                 "value":"Url de la conf\u00e9rence Festival"
+                                }, 
+                                {
+                                 "name":"writableBy",
+                                 "type":"string",
+                                 "value":"admin"
+                                }],
+                         "rotation":0,
+                         "type":"variable",
+                         "visible":true,
+                         "width":0,
+                         "x":2726,
+                         "y":1133
                         }, 
                         {
-                         "name":"label",
-                         "type":"string",
-                         "value":"Url de la conf\u00e9rence Festival"
+                         "height":0,
+                         "id":2,
+                         "name":"amphiUrl",
+                         "point":true,
+                         "properties":[
+                                {
+                                 "name":"default",
+                                 "type":"string",
+                                 "value":"https:\/\/www.newsassurancespro.com\/"
+                                }, 
+                                {
+                                 "name":"label",
+                                 "type":"string",
+                                 "value":"Url de la conf\u00e9rence Amphi"
+                                }, 
+                                {
+                                 "name":"writableBy",
+                                 "type":"string",
+                                 "value":"admin"
+                                }],
+                         "rotation":0,
+                         "type":"varialble",
+                         "visible":true,
+                         "width":0,
+                         "x":492,
+                         "y":285
                         }, 
                         {
-                         "name":"persist",
-                         "type":"bool",
-                         "value":true
+                         "height":0,
+                         "id":3,
+                         "name":"redacUrl",
+                         "point":true,
+                         "properties":[
+                                {
+                                 "name":"default",
+                                 "type":"string",
+                                 "value":"https:\/\/www.newsassurancespro.com\/"
+                                }, 
+                                {
+                                 "name":"label",
+                                 "type":"string",
+                                 "value":"Url de la conf\u00e9rence Redac"
+                                }, 
+                                {
+                                 "name":"writableBy",
+                                 "type":"string",
+                                 "value":"admin"
+                                }],
+                         "rotation":0,
+                         "type":"variable",
+                         "visible":true,
+                         "width":0,
+                         "x":1394,
+                         "y":311
                         }, 
                         {
-                         "name":"writableBy",
-                         "type":"string",
-                         "value":"admin"
+                         "height":0,
+                         "id":4,
+                         "name":"bureauRedacUrl",
+                         "point":true,
+                         "properties":[
+                                {
+                                 "name":"default",
+                                 "type":"string",
+                                 "value":"https:\/\/www.newsassurancespro.com\/"
+                                }, 
+                                {
+                                 "name":"label",
+                                 "type":"string",
+                                 "value":"Url de la conf\u00e9rence Bureau redac"
+                                }, 
+                                {
+                                 "name":"writableBy",
+                                 "type":"string",
+                                 "value":"admin"
+                                }],
+                         "rotation":0,
+                         "type":"variable",
+                         "visible":true,
+                         "width":0,
+                         "x":976,
+                         "y":378
                         }],
-                 "rotation":0,
-                 "type":"variable",
+                 "opacity":1,
+                 "type":"objectgroup",
                  "visible":true,
-                 "width":0,
-                 "x":2726,
-                 "y":1133
-                }, 
-                {
-                 "height":0,
-                 "id":2,
-                 "name":"amphiUrl",
-                 "point":true,
-                 "properties":[
-                        {
-                         "name":"default",
-                         "type":"string",
-                         "value":"https:\/\/www.newsassurancespro.com\/"
-                        }, 
-                        {
-                         "name":"label",
-                         "type":"string",
-                         "value":"Url de la conf\u00e9rence Amphi"
-                        }, 
-                        {
-                         "name":"persist",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"writableBy",
-                         "type":"string",
-                         "value":"admin"
-                        }],
-                 "rotation":0,
-                 "type":"varialble",
-                 "visible":true,
-                 "width":0,
-                 "x":492,
-                 "y":285
-                }, 
-                {
-                 "height":0,
-                 "id":3,
-                 "name":"redacUrl",
-                 "point":true,
-                 "properties":[
-                        {
-                         "name":"default",
-                         "type":"string",
-                         "value":"https:\/\/www.newsassurancespro.com\/"
-                        }, 
-                        {
-                         "name":"label",
-                         "type":"string",
-                         "value":"Url de la conf\u00e9rence Redac"
-                        }, 
-                        {
-                         "name":"persist",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"writableBy",
-                         "type":"string",
-                         "value":"admin"
-                        }],
-                 "rotation":0,
-                 "type":"variable",
-                 "visible":true,
-                 "width":0,
-                 "x":1394,
-                 "y":311
-                }, 
-                {
-                 "height":0,
-                 "id":4,
-                 "name":"bureauRedacUrl",
-                 "point":true,
-                 "properties":[
-                        {
-                         "name":"default",
-                         "type":"string",
-                         "value":"https:\/\/www.newsassurancespro.com\/"
-                        }, 
-                        {
-                         "name":"label",
-                         "type":"string",
-                         "value":"Url de la conf\u00e9rence Bureau redac"
-                        }, 
-                        {
-                         "name":"persist",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"writableBy",
-                         "type":"string",
-                         "value":"admin"
-                        }],
-                 "rotation":0,
-                 "type":"variable",
-                 "visible":true,
-                 "width":0,
-                 "x":976,
-                 "y":378
+                 "x":0,
+                 "y":0
                 }],
+         "name":"configuration",
          "opacity":1,
-         "type":"objectgroup",
+         "properties":[
+                {
+                 "name":"tag",
+                 "type":"string",
+                 "value":"admin"
+                }],
+         "type":"group",
          "visible":true,
          "x":0,
          "y":0
@@ -633,7 +629,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":45,
+ "nextlayerid":51,
  "nextobjectid":5,
  "orientation":"orthogonal",
  "properties":[
@@ -665,7 +661,7 @@
         {
          "name":"script",
          "type":"string",
-         "value":"script.js"
+         "value":"https:\/\/unpkg.com\/@workadventure\/scripting-api-extra@^1\/dist\/bundle.js"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.6.0",
