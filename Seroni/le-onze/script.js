@@ -1,9 +1,3 @@
-console.log('Start scripting Seroni map');
+require('../../node_modules/@workadventure/scripting-api-extra');
 
-import {bootstrapExtra} from '@workadventure/scripting-api-extra'
-console.log('inport bootstrapExtra', bootstrapExtra);
-bootstrapExtra();
-
-WA.onInit().then(() => {
-    console.log('Current player name: ', WA.player.name);
-});
+console.log('Scripting Seroni');
